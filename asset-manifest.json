@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SQL_database/static/css/main.6cc3684a.css",
+    "main.js": "/SQL_database/static/js/main.73781025.js",
+    "static/media/SQL_Database-main.zip": "/SQL_database/static/media/SQL_Database-main.90839c4da95d6482a0e0.zip",
+    "static/media/DatabaseImage.png": "/SQL_database/static/media/DatabaseImage.a9f3ed9d41aacea56b0c.png",
+    "index.html": "/SQL_database/index.html",
+    "main.6cc3684a.css.map": "/SQL_database/static/css/main.6cc3684a.css.map",
+    "main.73781025.js.map": "/SQL_database/static/js/main.73781025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc3684a.css",
+    "static/js/main.73781025.js"
+  ]
+}
