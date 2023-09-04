@@ -28,4 +28,9 @@
             transform: translateY(0px);
         }
     }
+    @media screen  and (max-width:768px){
+        #download_code{
+            margin-bottom: 1rem;
+        }
+    }
 }
